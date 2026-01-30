@@ -1,7 +1,7 @@
 # Actividad_entregable_1
 
 
-'''java
+´´´java
 package actividades_comentarios;
 /**
  * clase que lee un array de notas y busca la mayor de ellas, si se repite y hace la media
@@ -110,4 +110,4 @@ public class AnalisisNotas {
     }
 }
 
-'''
+´´´
