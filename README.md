@@ -1,10 +1,11 @@
 # Actividad_entregable_1
 
 ## Funcionalidades
--Leer un array de int
--Buscar el mayor
-	-Contar cuantas veces aparece 
--Calcular la nota media y decir si ha aprobado o no
+- Leer un array de int
+- Buscar el mayor
+	- Contar cuantas veces aparece 
+- Calcular la nota media y decir si ha aprobado o no
+
 ## Codigo fuente
 ```java
 package actividades_comentarios;
